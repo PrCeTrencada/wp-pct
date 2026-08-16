@@ -14,7 +14,7 @@
 		</nav>
 		<p>
 			COPYRIGHT ©  <?php echo esc_html(gmdate('Y')); ?> Projecte 'Ce Trencada'<br>
-			Disseny de: <a class="theme-credit" href="https://github.com/Nilcm01" target="_blank" rel="noopener noreferrer">Nilcm01</a> (tema <span class="groc">PCT v1.00</span>)
+			Disseny de: <a class="theme-credit" href="https://github.com/Nilcm01" target="_blank" rel="noopener noreferrer">Nilcm01</a> (tema <span class="groc">PCT v1.1.0</span>)
 		</p>
 	</div>
 </footer>
