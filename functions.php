@@ -13,7 +13,8 @@ if ( ! function_exists( 'pct_theme_setup' ) ) {
 		add_theme_support( 'editor-styles' );
 
 		register_nav_menus( array(
-			'primary' => __( 'Primary Menu', 'pct' ),
+			'primary' => __( 'Cap', 'pct' ),
+			'footer'  => __( 'Peu', 'pct' ),
 		) );
 	}
 }
